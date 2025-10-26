@@ -145,10 +145,6 @@ DefaultLimitPercent = 5.0
 **Kamran Ali — Kamran Ali Developer**  
 📧 kamranalideveloper@gmail.com  
 
-> *GuardianBot — Protecting your trading capital, one symbol at a time.*
+> **GuardianBot — Protecting your trading capital, one symbol at a time.**
 
 ---
-
-### 🗂️ GitHub Repository Info
-**Repo Name:** `GuardianBot-EA`  
-**Short Description:** “Advanced MT5 Expert Advisor for per-symbol risk management and live monitoring.”
